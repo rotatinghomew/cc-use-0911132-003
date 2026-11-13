@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-09-30T00:00:00+00:00",
+  "source_versions": {
+    "operations": "r1",
+    "reference": "r1"
+  },
+  "frame": [
+    {
+      "batch_id": "m-h-0",
+      "stratum": "high",
+      "plant": "plant-e0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-h-1",
+      "stratum": "high",
+      "plant": "plant-e1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-h-2",
+      "stratum": "high",
+      "plant": "plant-e2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-h-3",
+      "stratum": "high",
+      "plant": "plant-e3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-0",
+      "stratum": "ordinary",
+      "plant": "plant-f0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-1",
+      "stratum": "ordinary",
+      "plant": "plant-f1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-2",
+      "stratum": "ordinary",
+      "plant": "plant-f2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-3",
+      "stratum": "ordinary",
+      "plant": "plant-f3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-4",
+      "stratum": "ordinary",
+      "plant": "plant-f0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-5",
+      "stratum": "ordinary",
+      "plant": "plant-f1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-6",
+      "stratum": "ordinary",
+      "plant": "plant-f2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "m-o-7",
+      "stratum": "ordinary",
+      "plant": "plant-f3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    }
+  ],
+  "draws": [
+    {
+      "draw_id": "md-h0",
+      "batch_id": "m-h-0",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-h1",
+      "batch_id": "m-h-1",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-h2",
+      "batch_id": "m-h-2",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-h3",
+      "batch_id": "m-h-3",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": null,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o0",
+      "batch_id": "m-o-0",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o1",
+      "batch_id": "m-o-1",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o2",
+      "batch_id": "m-o-2",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o3",
+      "batch_id": "m-o-3",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o4",
+      "batch_id": "m-o-4",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o5",
+      "batch_id": "m-o-5",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o6",
+      "batch_id": "m-o-6",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "md-o7",
+      "batch_id": "m-o-7",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    }
+  ],
+  "tests": [
+    {
+      "test_id": "mt-h0",
+      "draw_id": "md-h0",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-h1",
+      "draw_id": "md-h1",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-h2",
+      "draw_id": "md-h2",
+      "attempt": 1,
+      "passed": false,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-h3",
+      "draw_id": "md-h3",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o0",
+      "draw_id": "md-o0",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o1",
+      "draw_id": "md-o1",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o2",
+      "draw_id": "md-o2",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o3",
+      "draw_id": "md-o3",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o4",
+      "draw_id": "md-o4",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o5",
+      "draw_id": "md-o5",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o6",
+      "draw_id": "md-o6",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "mt-o7",
+      "draw_id": "md-o7",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    }
+  ],
+  "certificate_changes": [],
+  "standards": [
+    {
+      "version": "s1",
+      "effective_at": "2026-08-01T00:00:00+00:00"
+    },
+    {
+      "version": "s2",
+      "effective_at": "2026-10-20T00:00:00+00:00"
+    }
+  ],
+  "study": {
+    "population_at": "2026-08-31T00:00:00+00:00",
+    "nonresponse_ranges": [
+      0.0,
+      0.25,
+      0.5,
+      1.0
+    ]
+  },
+  "baseline_case_id": "regional_brand_guard-demo"
+}
