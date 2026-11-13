@@ -1,0 +1,923 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-30T00:00:00+00:00",
+  "source_versions": {
+    "operations": "r1",
+    "reference": "r1"
+  },
+  "frame": [
+    {
+      "batch_id": "batch-0",
+      "stratum": "high",
+      "plant": "plant-0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-1",
+      "stratum": "high",
+      "plant": "plant-1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-2",
+      "stratum": "high",
+      "plant": "plant-2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-3",
+      "stratum": "high",
+      "plant": "plant-3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-4",
+      "stratum": "high",
+      "plant": "plant-4",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-5",
+      "stratum": "high",
+      "plant": "plant-5",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-6",
+      "stratum": "high",
+      "plant": "plant-6",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-7",
+      "stratum": "high",
+      "plant": "plant-7",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-8",
+      "stratum": "high",
+      "plant": "plant-8",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-9",
+      "stratum": "high",
+      "plant": "plant-9",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-10",
+      "stratum": "high",
+      "plant": "plant-0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-11",
+      "stratum": "high",
+      "plant": "plant-1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-12",
+      "stratum": "high",
+      "plant": "plant-2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-13",
+      "stratum": "high",
+      "plant": "plant-3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-14",
+      "stratum": "high",
+      "plant": "plant-4",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-15",
+      "stratum": "high",
+      "plant": "plant-5",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-16",
+      "stratum": "high",
+      "plant": "plant-6",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-17",
+      "stratum": "high",
+      "plant": "plant-7",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-18",
+      "stratum": "high",
+      "plant": "plant-8",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-19",
+      "stratum": "high",
+      "plant": "plant-9",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-20",
+      "stratum": "ordinary",
+      "plant": "plant-0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-21",
+      "stratum": "ordinary",
+      "plant": "plant-1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-22",
+      "stratum": "ordinary",
+      "plant": "plant-2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-23",
+      "stratum": "ordinary",
+      "plant": "plant-3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-24",
+      "stratum": "ordinary",
+      "plant": "plant-4",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-25",
+      "stratum": "ordinary",
+      "plant": "plant-5",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-26",
+      "stratum": "ordinary",
+      "plant": "plant-6",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-27",
+      "stratum": "ordinary",
+      "plant": "plant-7",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-28",
+      "stratum": "ordinary",
+      "plant": "plant-8",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-29",
+      "stratum": "ordinary",
+      "plant": "plant-9",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-30",
+      "stratum": "ordinary",
+      "plant": "plant-0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-31",
+      "stratum": "ordinary",
+      "plant": "plant-1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-32",
+      "stratum": "ordinary",
+      "plant": "plant-2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-33",
+      "stratum": "ordinary",
+      "plant": "plant-3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-34",
+      "stratum": "ordinary",
+      "plant": "plant-4",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-35",
+      "stratum": "ordinary",
+      "plant": "plant-5",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-36",
+      "stratum": "ordinary",
+      "plant": "plant-6",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-37",
+      "stratum": "ordinary",
+      "plant": "plant-7",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-38",
+      "stratum": "ordinary",
+      "plant": "plant-8",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-39",
+      "stratum": "ordinary",
+      "plant": "plant-9",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-40",
+      "stratum": "ordinary",
+      "plant": "plant-0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-41",
+      "stratum": "ordinary",
+      "plant": "plant-1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-42",
+      "stratum": "ordinary",
+      "plant": "plant-2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-43",
+      "stratum": "ordinary",
+      "plant": "plant-3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-44",
+      "stratum": "ordinary",
+      "plant": "plant-4",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-45",
+      "stratum": "ordinary",
+      "plant": "plant-5",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-46",
+      "stratum": "ordinary",
+      "plant": "plant-6",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-47",
+      "stratum": "ordinary",
+      "plant": "plant-7",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-48",
+      "stratum": "ordinary",
+      "plant": "plant-8",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-49",
+      "stratum": "ordinary",
+      "plant": "plant-9",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-50",
+      "stratum": "ordinary",
+      "plant": "plant-0",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-51",
+      "stratum": "ordinary",
+      "plant": "plant-1",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-52",
+      "stratum": "ordinary",
+      "plant": "plant-2",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-53",
+      "stratum": "ordinary",
+      "plant": "plant-3",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-54",
+      "stratum": "ordinary",
+      "plant": "plant-4",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-55",
+      "stratum": "ordinary",
+      "plant": "plant-5",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-56",
+      "stratum": "ordinary",
+      "plant": "plant-6",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-57",
+      "stratum": "ordinary",
+      "plant": "plant-7",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-58",
+      "stratum": "ordinary",
+      "plant": "plant-8",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "batch-59",
+      "stratum": "ordinary",
+      "plant": "plant-9",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    },
+    {
+      "batch_id": "unobserved",
+      "stratum": "new",
+      "plant": "plant-new",
+      "certificate_start": "2026-08-01T00:00:00+00:00",
+      "certificate_end": "2026-11-09T00:00:00+00:00",
+      "quarter": "Q3",
+      "population_size": 1
+    }
+  ],
+  "draws": [
+    {
+      "draw_id": "draw-0",
+      "batch_id": "batch-0",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "not_delivered",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-3",
+      "batch_id": "batch-3",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-6",
+      "batch_id": "batch-6",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-9",
+      "batch_id": "batch-9",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-12",
+      "batch_id": "batch-12",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-15",
+      "batch_id": "batch-15",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-18",
+      "batch_id": "batch-18",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.8,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-21",
+      "batch_id": "batch-21",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-24",
+      "batch_id": "batch-24",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-27",
+      "batch_id": "batch-27",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-30",
+      "batch_id": "batch-30",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-33",
+      "batch_id": "batch-33",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "not_delivered",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-36",
+      "batch_id": "batch-36",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-39",
+      "batch_id": "batch-39",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-42",
+      "batch_id": "batch-42",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-45",
+      "batch_id": "batch-45",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-48",
+      "batch_id": "batch-48",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-51",
+      "batch_id": "batch-51",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-54",
+      "batch_id": "batch-54",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    },
+    {
+      "draw_id": "draw-57",
+      "batch_id": "batch-57",
+      "plant_inclusion_probability": 0.5,
+      "conditional_inclusion_probability": 0.2,
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "response": "tested",
+      "standard": "s1"
+    }
+  ],
+  "tests": [
+    {
+      "test_id": "test-3",
+      "draw_id": "draw-3",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-6",
+      "draw_id": "draw-6",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-9",
+      "draw_id": "draw-9",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-12",
+      "draw_id": "draw-12",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-15",
+      "draw_id": "draw-15",
+      "attempt": 1,
+      "passed": false,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-18",
+      "draw_id": "draw-18",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-21",
+      "draw_id": "draw-21",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-24",
+      "draw_id": "draw-24",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-27",
+      "draw_id": "draw-27",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-30",
+      "draw_id": "draw-30",
+      "attempt": 1,
+      "passed": false,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-36",
+      "draw_id": "draw-36",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-39",
+      "draw_id": "draw-39",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-42",
+      "draw_id": "draw-42",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-45",
+      "draw_id": "draw-45",
+      "attempt": 1,
+      "passed": false,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-48",
+      "draw_id": "draw-48",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-51",
+      "draw_id": "draw-51",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-54",
+      "draw_id": "draw-54",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "test-57",
+      "draw_id": "draw-57",
+      "attempt": 1,
+      "passed": true,
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "standard": "s1"
+    },
+    {
+      "test_id": "retest-15",
+      "draw_id": "draw-15",
+      "attempt": 2,
+      "supersedes": "test-15",
+      "passed": true,
+      "standard": "s1",
+      "available_at": "2026-10-25T00:00:00+00:00"
+    }
+  ],
+  "certificate_changes": [
+    {
+      "batch_id": "batch-15",
+      "stopped_at": "2026-09-20T00:00:00+00:00",
+      "available_at": "2026-09-21T00:00:00+00:00"
+    }
+  ],
+  "standards": [
+    {
+      "version": "s1",
+      "effective_at": "2026-08-01T00:00:00+00:00"
+    },
+    {
+      "version": "s2",
+      "effective_at": "2026-10-20T00:00:00+00:00"
+    }
+  ],
+  "study": {
+    "population_at": "2026-08-31T00:00:00+00:00",
+    "nonresponse_ranges": [
+      0.0,
+      0.25,
+      0.5,
+      1.0
+    ]
+  },
+  "baseline_case_id": "regional_brand_guard-demo"
+}
